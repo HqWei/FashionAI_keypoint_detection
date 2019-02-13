@@ -1,7 +1,7 @@
 # Fashion AI keypoint challenge 34th solution  (34/2322)
 
 
-# 1. 框架
+# 1. 网络框架
 比赛最后提交的方法主要是基于旷世的人体检测框架CPN，框架比较简洁  
 [Cascaded Pyramid Network for Multi-Person Pose Estimation](https://arxiv.org/abs/1711.07319)  
 另外试过Hourglass  
